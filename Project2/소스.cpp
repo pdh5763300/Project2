@@ -1,3 +1,8 @@
 #include <stdio.h>
 
-m
+int main()
+{
+	printf("Hello wold!|n");
+
+	return 0;
+}
